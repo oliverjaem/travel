@@ -112,6 +112,7 @@
     margin-top: 20px;
 }
 .footer {
+    color: #fff;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -119,12 +120,14 @@
     padding: 5%;
 }
 .socialmedia {
+    fill: white;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 #github:hover {
     transform: scale(1.5);
+    fill: black;
 }
 #facebook:hover {
     transform: scale(1.5);
